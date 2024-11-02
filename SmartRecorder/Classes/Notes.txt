@@ -1,0 +1,8 @@
+﻿- send strings for DBAuth over Bluetooth
+- create upload queue
+- cloud picker
+- playback
+- read config from usb
+- mp3 tag editing
+- junk user/email so tester doesn't have to use theirs
+- so add some generic API?

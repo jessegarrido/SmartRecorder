@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartRecorder", "SmartRecorder\SmartRecorder.csproj", "{D08C4F5E-3DD4-42AF-8DB0-BA037F318E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRecorder.Data", "SmartRecorder.Data\SmartRecorder.Data.csproj", "{91D52BA8-6750-4620-8798-8B119099F2D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08C4F5E-3DD4-42AF-8DB0-BA037F318E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08C4F5E-3DD4-42AF-8DB0-BA037F318E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08C4F5E-3DD4-42AF-8DB0-BA037F318E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08C4F5E-3DD4-42AF-8DB0-BA037F318E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D52BA8-6750-4620-8798-8B119099F2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D52BA8-6750-4620-8798-8B119099F2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D52BA8-6750-4620-8798-8B119099F2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D52BA8-6750-4620-8798-8B119099F2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5331F3-1E50-439B-897A-26D326EEEDD0}
+	EndGlobalSection
+EndGlobal
