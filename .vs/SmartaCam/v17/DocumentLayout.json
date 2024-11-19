@@ -1,83 +1,83 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\",
+  "WorkspaceRootPath": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFA763A0-F6D6-46F9-A1A8-A096DB467799}|..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.api\\smartacam.api\\smartacam.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFA763A0-F6D6-46F9-A1A8-A096DB467799}|..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.api\\smartacam.api\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam\\smartacam.app\\services\\mp3tagsetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\services\\mp3tagsetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam\\smartacam.app\\services\\imp3tagsetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\services\\imp3tagsetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam\\smartacam.app\\services\\iwavtakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\services\\iwavtakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFA763A0-F6D6-46F9-A1A8-A096DB467799}|..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.api\\smartacam.api\\controllers\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA4EE4B-F840-4DD4-B0FC-93602AB8CA20}|..\\SmartaCam.Shared\\SmartaCam.Shared.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\classes\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA4EE4B-F840-4DD4-B0FC-93602AB8CA20}|..\\SmartaCam.Shared\\SmartaCam.Shared.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\classes\\utilclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA4EE4B-F840-4DD4-B0FC-93602AB8CA20}|..\\SmartaCam.Shared\\SmartaCam.Shared.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\classes\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA4EE4B-F840-4DD4-B0FC-93602AB8CA20}|..\\SmartaCam.Shared\\SmartaCam.Shared.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\classes\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam\\smartacam.app\\services\\wavtakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\services\\wavtakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam\\smartacam.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBA4EE4B-F840-4DD4-B0FC-93602AB8CA20}|..\\SmartaCam.Shared\\SmartaCam.Shared.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam\\smartacam.app\\smartacam.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartrecorder\\smartacam.app\\smartacam.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\smartacam.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFA763A0-F6D6-46F9-A1A8-A096DB467799}|..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.api\\smartacam.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBA4EE4B-F840-4DD4-B0FC-93602AB8CA20}|..\\SmartaCam.Shared\\SmartaCam.Shared.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartrecorder\\smartacam.app\\services\\mp3tagsetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\services\\mp3tagsetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBA4EE4B-F840-4DD4-B0FC-93602AB8CA20}|..\\SmartaCam.Shared\\SmartaCam.Shared.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartrecorder\\smartacam.app\\services\\imp3tagsetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\services\\imp3tagsetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBA4EE4B-F840-4DD4-B0FC-93602AB8CA20}|..\\SmartaCam.Shared\\SmartaCam.Shared.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\smartacam.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartrecorder\\smartacam.app\\services\\iwavtakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\services\\iwavtakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFA763A0-F6D6-46F9-A1A8-A096DB467799}|..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.api\\smartacam.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartrecorder\\smartacam.app\\services\\wavtakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\services\\wavtakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam\\smartacam.app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartrecorder\\smartacam.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartrecorder\\smartacam.app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam\\smartacam.app\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|c:\\users\\jesse\\documents\\codeyou\\smartrecorder\\smartacam.app\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46EA3CF3-890F-43F3-BF0D-EDF26E9B4727}|SmartaCam.App\\SmartaCam.App.csproj|solutionrelative:smartacam.app\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFA763A0-F6D6-46F9-A1A8-A096DB467799}|..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.api\\smartacam.api\\smartacam.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\classes\\utilclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFA763A0-F6D6-46F9-A1A8-A096DB467799}|..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.api\\smartacam.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\classes\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Models\\Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Controllers\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\classes\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\classes\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Models\\Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\jesse\\documents\\codeyou\\smartacam\\smartacam.shared\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\SmartaCam.Shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,205 +95,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UtilClass.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Classes\\UtilClass.cs",
-              "RelativeDocumentMoniker": "..\\SmartaCam.Shared\\Classes\\UtilClass.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Classes\\UtilClass.cs",
-              "RelativeToolTip": "..\\SmartaCam.Shared\\Classes\\UtilClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:17:57.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Global.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Classes\\Global.cs",
-              "RelativeDocumentMoniker": "..\\SmartaCam.Shared\\Classes\\Global.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Classes\\Global.cs",
-              "RelativeToolTip": "..\\SmartaCam.Shared\\Classes\\Global.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Global.cs",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Global.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Global.cs",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Global.cs",
               "ViewState": "AgIAADUAAAAAAAAAAADwvwsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:17:43.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:17:43.963Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IWavTakeService.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Services\\IWavTakeService.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Services\\IWavTakeService.cs",
               "RelativeDocumentMoniker": "SmartaCam.App\\Services\\IWavTakeService.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Services\\IWavTakeService.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Services\\IWavTakeService.cs",
               "RelativeToolTip": "SmartaCam.App\\Services\\IWavTakeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:16:38.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:16:38.997Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Mp3TagSetService.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Services\\Mp3TagSetService.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Services\\Mp3TagSetService.cs",
               "RelativeDocumentMoniker": "SmartaCam.App\\Services\\Mp3TagSetService.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Services\\Mp3TagSetService.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Services\\Mp3TagSetService.cs",
               "RelativeToolTip": "SmartaCam.App\\Services\\Mp3TagSetService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:46:07.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T18:46:07.764Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IMp3TagSetService.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Services\\IMp3TagSetService.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Services\\IMp3TagSetService.cs",
               "RelativeDocumentMoniker": "SmartaCam.App\\Services\\IMp3TagSetService.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Services\\IMp3TagSetService.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Services\\IMp3TagSetService.cs",
               "RelativeToolTip": "SmartaCam.App\\Services\\IMp3TagSetService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:40:12.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Models.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Models\\Models.cs",
-              "RelativeDocumentMoniker": "..\\SmartaCam.API\\SmartaCam.API\\Models\\Models.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Models\\Models.cs",
-              "RelativeToolTip": "..\\SmartaCam.API\\SmartaCam.API\\Models\\Models.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAApwGoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:08:35.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SmartaCam.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj",
-              "RelativeDocumentMoniker": "..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj",
-              "RelativeToolTip": "..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-19T18:04:53.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WavTakeService.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Services\\WavTakeService.cs",
-              "RelativeDocumentMoniker": "SmartaCam.App\\Services\\WavTakeService.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Services\\WavTakeService.cs",
-              "RelativeToolTip": "SmartaCam.App\\Services\\WavTakeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:17:07.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T18:40:12.731Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Program.cs",
-              "RelativeDocumentMoniker": "SmartaCam.App\\Program.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Program.cs",
-              "RelativeToolTip": "SmartaCam.App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:56:14.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Controllers\\Class.cs",
-              "RelativeDocumentMoniker": "..\\SmartaCam.API\\SmartaCam.API\\Controllers\\Class.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Controllers\\Class.cs",
-              "RelativeToolTip": "..\\SmartaCam.API\\SmartaCam.API\\Controllers\\Class.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:08:46.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Logging.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Classes\\Logging.cs",
-              "RelativeDocumentMoniker": "..\\SmartaCam.Shared\\Classes\\Logging.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Classes\\Logging.cs",
-              "RelativeToolTip": "..\\SmartaCam.Shared\\Classes\\Logging.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:26:46.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Classes.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Classes\\Classes.cs",
-              "RelativeDocumentMoniker": "..\\SmartaCam.Shared\\Classes\\Classes.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Classes\\Classes.cs",
-              "RelativeToolTip": "..\\SmartaCam.Shared\\Classes\\Classes.cs",
-              "ViewState": "AgIAALsCAAAAAAAAAAAwwM4CAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:19:45.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Models.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Models\\Models.cs",
-              "RelativeDocumentMoniker": "..\\SmartaCam.Shared\\Models\\Models.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Models\\Models.cs",
-              "RelativeToolTip": "..\\SmartaCam.Shared\\Models\\Models.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Models\\Models.cs",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Models\\Models.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAApwGoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:14:13.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T18:08:35.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "..\\SmartaCam.API\\SmartaCam.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "..\\SmartaCam.API\\SmartaCam.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T18:04:15.384Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "SmartaCam.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T18:04:53.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Settings.settings",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Settings.settings",
-              "RelativeDocumentMoniker": "..\\SmartaCam.Shared\\Settings.settings",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Settings.settings",
-              "RelativeToolTip": "..\\SmartaCam.Shared\\Settings.settings",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
-              "WhenOpened": "2024-11-19T17:57:17.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "SmartaCam.App.csproj",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\SmartaCam.App.csproj",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\SmartaCam.App.csproj",
               "RelativeDocumentMoniker": "SmartaCam.App\\SmartaCam.App.csproj",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\SmartaCam.App.csproj",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\SmartaCam.App.csproj",
               "RelativeToolTip": "SmartaCam.App\\SmartaCam.App.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -302,94 +179,194 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Program.cs",
-              "RelativeDocumentMoniker": "..\\SmartaCam.API\\SmartaCam.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Program.cs",
-              "RelativeToolTip": "..\\SmartaCam.API\\SmartaCam.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "UtilClass.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\UtilClass.cs",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\UtilClass.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\UtilClass.cs",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\UtilClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:25:40.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:17:57.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WavTakeService.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Services\\WavTakeService.cs",
+              "RelativeDocumentMoniker": "SmartaCam.App\\Services\\WavTakeService.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Services\\WavTakeService.cs",
+              "RelativeToolTip": "SmartaCam.App\\Services\\WavTakeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:17:07.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Program.cs",
+              "RelativeDocumentMoniker": "SmartaCam.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Program.cs",
+              "RelativeToolTip": "SmartaCam.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:56:14.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Controllers\\Class.cs",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Controllers\\Class.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Controllers\\Class.cs",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Controllers\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:08:46.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Logging.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Logging.cs",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Logging.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Logging.cs",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Logging.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:26:46.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Classes.cs",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Classes.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Classes.cs",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam\\restore\\SmartRecorder\\SmartaCam.Shared\\Classes\\Classes.cs",
+              "ViewState": "AgIAALsCAAAAAAAAAAAwwM4CAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:19:45.557Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\App.config",
-              "RelativeDocumentMoniker": "..\\SmartaCam.Shared\\App.config",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\App.config",
-              "RelativeToolTip": "..\\SmartaCam.Shared\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-19T17:57:15.287Z",
-              "EditorCaption": ""
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam.Shared\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\Models\\Models.cs",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam.Shared\\Models\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:14:13.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SmartaCam.API.http",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.http",
-              "RelativeDocumentMoniker": "..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.http",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.http",
-              "RelativeToolTip": "..\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-19T18:02:53.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\SmartaCam.API\\SmartaCam.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\appsettings.json",
-              "RelativeToolTip": "..\\SmartaCam.API\\SmartaCam.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T18:02:49.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T18:04:15.384Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "SmartaCam.Shared.csproj",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\SmartaCam.Shared.csproj",
-              "RelativeDocumentMoniker": "..\\SmartaCam.Shared\\SmartaCam.Shared.csproj",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\SmartaCam.Shared.csproj",
-              "RelativeToolTip": "..\\SmartaCam.Shared\\SmartaCam.Shared.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-19T17:56:58.212Z",
-              "EditorCaption": ""
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.Shared\\Settings.settings",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam\\SmartaCam.Shared\\Settings.settings",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.Shared\\Settings.settings",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam\\SmartaCam.Shared\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-11-19T17:57:17.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Startup.cs",
-              "RelativeDocumentMoniker": "SmartaCam.App\\Startup.cs",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\Startup.cs",
-              "RelativeToolTip": "SmartaCam.App\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Program.cs",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:19:44.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T18:25:40.598Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\App.config",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam.Shared\\App.config",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\App.config",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam.Shared\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-19T17:57:15.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SmartaCam.API.http",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.http",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.http",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.http",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\SmartaCam.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-19T18:02:53.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\appsettings.json",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam.API\\SmartaCam.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T18:02:49.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SmartaCam.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\SmartaCam.Shared.csproj",
+              "RelativeDocumentMoniker": "..\\SmartaCam\\SmartaCam.Shared\\SmartaCam.Shared.csproj",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam.Shared\\SmartaCam.Shared.csproj",
+              "RelativeToolTip": "..\\SmartaCam\\SmartaCam.Shared\\SmartaCam.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T17:56:58.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Startup.cs",
+              "RelativeDocumentMoniker": "SmartaCam.App\\Startup.cs",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\Startup.cs",
+              "RelativeToolTip": "SmartaCam.App\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:19:44.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\wwwroot\\index.html",
+              "DocumentMoniker": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "SmartaCam.App\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartaCam\\SmartaCam\\SmartaCam.App\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Jesse\\Documents\\CodeYou\\SmartRecorder\\SmartaCam.App\\wwwroot\\index.html",
               "RelativeToolTip": "SmartaCam.App\\wwwroot\\index.html",
               "ViewState": "AgIAAAoAAAAAAAAAAABBwBcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-19T16:05:20.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T16:05:20.723Z"
             }
           ]
         }
