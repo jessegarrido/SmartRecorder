@@ -14,4 +14,5 @@ SmartaCam's Dropbox integration does not have a configuration interface. To appl
 	6. Overwrite the url in DropBoxCode.txt with the resultant "Access Code"<br/>
 	7. SmartaCam detects the modified text and completes authentication (viewable in Console)<br/>
 	
-SmartaCam has many pending features (Dropbox UI interface, audio device selection, logging, etc.)
+https://youtube.com/shorts/p5d0PktDPz8?si=YAI-a2Kp9jGuEtHj<br/>
+SmartaCam API on Raspberry Pi with breadboard IO circuit
