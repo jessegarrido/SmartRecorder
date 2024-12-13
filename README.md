@@ -5,13 +5,13 @@ SmartaCam's web interface includes:
 - A tag editor page where users can create or activate "Title, "Artist," and "Album" tags applied to recordings. "Title" will also be used for .wav file name, and must include the text "[#]" (programmatically  replaced by a count to ensure unique file names). 
 - A configuration page where users elect to normalize (maximize volume without clipping), copy to usb, and/or upload to DropBox after audio is captured. 
 
-SmartaCam's Dropbox integration does not have a configuration interface. To apply :
-	1. Copy App API key and App API secret (separately provided) to fields in Settings.settings, in the SmartaCam.API project directory
-	1. Visit Dropbox.com and Log In using account credentials (separately provided)
-	2. Launch SmartaCam with a removable drive inserted
-	3. Visit the url written to DropBoxCode.txt, on the root of the removable drive
-	4. Follow prompts to give SmartaCam permission to create and access a dedicated folder in the DropBox account
-	5. Overwrite the url in DropBoxCode.txt with the resultant "Access Code" 
-	6. SmartaCam detects the modified text and completes authentication (viewable in Console)
+SmartaCam's Dropbox integration does not have a configuration interface. To apply :<br/>
+	1. Copy App API key and App API secret (separately provided) to fields in Settings.settings, in the SmartaCam.API project directory< br / >
+	2. Visit Dropbox.com and Log In using account credentials (separately provided)<br/>
+	3. Launch SmartaCam with a removable drive inserted<br/>
+	4. Visit the url written to DropBoxCode.txt, on the root of the removable drive<<br/>
+	5. Follow prompts to give SmartaCam permission to create and access a dedicated folder in the DropBox account<br/>
+	6. Overwrite the url in DropBoxCode.txt with the resultant "Access Code"<br/>
+	7. SmartaCam detects the modified text and completes authentication (viewable in Console)<br/>
 	
 SmartaCam has many features pending (Dropbox UI interface, audio device selection, logging, etc.)
